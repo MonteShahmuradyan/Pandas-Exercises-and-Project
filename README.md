@@ -1,2 +1,2 @@
-# Pandas-Exercises-and-Project
+# Pandas-Project
 Pandas - Machine Learning
